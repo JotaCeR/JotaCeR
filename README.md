@@ -45,6 +45,6 @@ Below you are going to find more information about me, such as the proyects I ha
 
 <h4 align="center">Autocinema</h4>
 
-<img align="left" width= "30%" src='GameCore1.png' /><img align="center" width= "30%" src='GameCore2.png' /><img align="right" width= "30%" src='GameCore3.png' />
+<img align="left" width= "30%" src='Auto1.png' /><img align="center" width= "30%" src='Auto2.png' /><img align="right" width= "30%" src='Auto3.png' />
 
 *************
