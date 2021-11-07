@@ -16,6 +16,8 @@ Below you are going to find more information about me, such as the proyects I ha
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Tailwind](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
