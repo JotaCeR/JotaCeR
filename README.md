@@ -13,6 +13,7 @@ Below you are going to find more information about me, such as the proyects I ha
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
   ![Tailwind](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
